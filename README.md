@@ -81,7 +81,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-One question I would have is how a webpage becomes public and how certain webpages appear first before others when doing a search online. Another question I would have is which languages are most commonly used in web development and what their specific advantages and purposes are. I was wondering if there are any other uses for HTML, Javascript, and CSS other than web development. I am also curious about how certain websites can obtain a users data or track its users. 
+One question I would have is how a webpage becomes public and how certain webpages appear first before others when doing a search online. Another question I would have is which languages are most commonly used in web development and what their specific advantages and purposes are. I was wondering if there are any other uses for HTML, Javascript, and CSS other than web development. I am also curious about how certain websites can obtain a users data or track its users. I am also wondering if there are any similarities between web development and app development. For example, does app development also use languages like HTML, Javascript, and CSS, or are they used only really used for web development. 
  
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
