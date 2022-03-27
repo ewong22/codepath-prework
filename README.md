@@ -88,7 +88,6 @@ One question I would have is how a webpage becomes public and how certain webpag
 I would make it so that the game would continue until failure, and I would do so by implementing a stack with a singly linked list. I would randomly generate a number and place it in the stack to continually add to the sequence. I would also let the user customize some aspects of the game such as the number of buttons from a certain range or the number of strikes allowed. This would allow the user to add to or lessen the difficulty of the game. I would also change how the buttons are pressed by mapping the buttons to keys. This way the user won't have to drag their cursor to press them allowing them to press each button much faster. I would most likley want to map the buttons to the numeric keyboard. I would also take the time to add a ticking noise to the timer that gets louder or changes sound when the time is about to expire. If I chose to make my game continue until failure I would also need to make sure I increase the time given to appropriately match the length of the sequence needed.
 
 
-
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording] https://www.loom.com/share/8c990c2f68a244769e2dd36a39b6b67a
