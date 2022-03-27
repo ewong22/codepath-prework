@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Light and Sound Memory Game
+    </h1>
+    <p>
+      Welcome to the game! Repeat back the pattern by pressing the buttons.
+    </p>
+    <p id="timer">
+      Time Remaining: 15
+    </p>
+    <p id="strikes">
+      Strikes Remaining: 3
+    </p>
+    <button onclick="startGame()" id="startBtn">Start</button>
+    <button onclick="stopGame()" class = "hidden" id="stopBtn">Stop</button>
+    
+    <div id="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="playMyAudio(1)" onmouseup="stopMyAudio(1)" ></button>
+      <button id="button2" onclick="guess(2)" onmousedown="playMyAudio(2)" onmouseup="stopMyAudio(2)" ></button>
+      <button id="button3" onclick="guess(3)" onmousedown="playMyAudio(3)" onmouseup="stopMyAudio(3)" ></button>
+      <button id="button4" onclick="guess(4)" onmousedown="playMyAudio(4)" onmouseup="stopMyAudio(4)" ></button>
+      <button id="button5" onclick="guess(5)" onmousedown="playMyAudio(5)" onmouseup="stopMyAudio(5)" ></button>
+      <button id="button6" onclick="guess(6)" onmousedown="playMyAudio(6)" onmouseup="stopMyAudio(6)" ></button>
+    </div>
+    <audio loop src="https://cdn.glitch.global/f2ab47fe-7645-45fa-8906-cfe0ca4f8734/Piano116.mp3?v=1647753324768" id="myAudio1"></audio>
+    <audio loop src="https://cdn.glitch.global/f2ab47fe-7645-45fa-8906-cfe0ca4f8734/Piano115.mp3?v=1647753329937" id="myAudio2"></audio>
+    <audio loop src="https://cdn.glitch.global/f2ab47fe-7645-45fa-8906-cfe0ca4f8734/Piano114.mp3?v=1647753334384" id="myAudio3"></audio>
+    <audio loop src="https://cdn.glitch.global/f2ab47fe-7645-45fa-8906-cfe0ca4f8734/Piano113.mp3?v=1647753339869" id="myAudio4"></audio>
+    <audio loop src="https://cdn.glitch.global/f2ab47fe-7645-45fa-8906-cfe0ca4f8734/Piano112.mp3?v=1647753346064" id="myAudio5"></audio>
+    <audio loop src="https://cdn.glitch.global/f2ab47fe-7645-45fa-8906-cfe0ca4f8734/Piano111.mp3?v=1647753351807" id="myAudio6"></audio>
+  </body>
+</html>
