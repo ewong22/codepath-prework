@@ -43,19 +43,23 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Win game feature (2x Speed) 
-![](gif1-link-here) ![](https://i.imgur.com/89GPfjT.gif)
+![](gif1-link-here) 
+![](https://i.imgur.com/89GPfjT.gif)
 
 
 Strikes feature 
-![](gif2-link-here) ![](https://i.imgur.com/1Ddxp1r.gif)
+![](gif2-link-here) 
+![](https://i.imgur.com/1Ddxp1r.gif)
 
 
 Timer feature
-![](gif3-link-here) ![](https://i.imgur.com/yve76so.gif)
+![](gif3-link-here) 
+![](https://i.imgur.com/yve76so.gif)
 
 
 Start and stop feature 
-![](gif4-link-here) ![](https://i.imgur.com/5mNLQhp.gif)
+![](gif4-link-here) 
+![](https://i.imgur.com/5mNLQhp.gif)
 
 
 ## Reflection Questions
