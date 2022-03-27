@@ -10,6 +10,7 @@ Link to project: (insert your link here, should start with https://glitch.com...
 
 https://glitch.com/edit/#!/blossom-noble-darkness
 
+
 ## Required Functionality
 
 The following **required** functionality is complete:
@@ -37,6 +38,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Added a counter to display the number of strikes remaining
+
 
 ## Video Walkthrough (GIF)
 
